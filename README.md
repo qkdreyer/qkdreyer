@@ -4,6 +4,10 @@ https://www.qkdreyer.dev
 
 [![Quentin Dreyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkdreyer&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Projects
+
+- [Githubers](https://githubers.qkdreyer.dev/?repos=vuejs/vue&repos=vuejs/vuex)
+
 ## Games
 
 ### The Creamy Viking

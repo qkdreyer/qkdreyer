@@ -6,7 +6,7 @@ https://www.qkdreyer.dev
 
 ## Projects
 
-- [Githubers](https://githubers.qkdreyer.dev/?repos=vuejs/vue&repos=vuejs/vuex)
+- [Githubers](https://githubers.qkdreyer.dev/?repos=vuejs/core&repos=vitejs/vite&limit=10)
 
 ## Games
 
